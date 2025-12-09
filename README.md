@@ -32,5 +32,3 @@ Enter a variant (e.g., BRCA1 c.5266dupC) to test the tool
 This project uses mock data and is only for learning purposes.
 It is not intended for medical or clinical interpretation.
 
-This project uses mock data and is only for learning purposes.
-It is not intended for medical or clinical interpretation.

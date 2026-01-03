@@ -16,7 +16,7 @@ Stores a short history of recent queries
 
 Beginner-friendly code and logic
 
-# Why I Made This peoject
+# Why I Made This project
 
 I created this project to understand how gene-variant annotation tools work at a basic level. It helped me practice parsing, summarizing, and structuring variant information in Python.
 
